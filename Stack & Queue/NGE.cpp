@@ -1,3 +1,5 @@
+//Leetcode 496. Next Greater Element I
+
 #include <bits/stdc++.h>
 using namespace std;
 
